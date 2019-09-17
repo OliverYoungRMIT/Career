@@ -1,7 +1,9 @@
 ### Career goals and education
 [Introduction](https://oliveryoungrmit.github.io/My-Profile/)
 
-[Personality](https://oliveryoungrmit.github.io/Personality/)
+[Personality](https://oliveryoungrmit.github.io/My-Personality/)
+
+[My Projects](https://oliveryoungrmit.github.io/Project-Idea/)
 
 ### What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any).
 
