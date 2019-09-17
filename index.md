@@ -1,4 +1,6 @@
 ### Career goals and education
+[Introduction](https://oliveryoungrmit.github.io/My-Profile/)
+[Personality](https://oliveryoungrmit.github.io/Personality/)
 
 ### What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any).
 
@@ -11,7 +13,6 @@ I first lived in Melbourne when I was very young and fell in love with the city,
 ### What do you expect to learn during your studies?
 
 I except to learn a large variety of skills, in another course I am creating a 2d game. Already I have learnt some Python in my own time, and I am currently learning C in another. I believe it is important to learn the fundamentals of IT before you can truly understand it.
-MORE ON THIS
 
 ### IDEAL JOB
 [Penetration Tester | EY](https://i.imgur.com/L9VJVn0.png)
@@ -34,5 +35,3 @@ I am currently lacking the professional skills and experience on paper but I hav
 
 There are a few different skills and certifications I am currently pursuing, as mentioned above I am currently studying for the CompTIA security+ exam, in addition I have been fairly active on [Hackerrank.com](hackerrank.com). There are a number of certifications I believe I could pass at the current moment, but they are quite expensive and I am terrible in exams, so my first step is to overcome my exam anxiety – I will need to, as much of IT is keeping up with current certifications.
 
-### Contents
-⋅⋅* [Career goals and education](https://oliveryoungrmit.github.io/Career/)
