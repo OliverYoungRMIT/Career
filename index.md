@@ -33,3 +33,6 @@ I am currently lacking the professional skills and experience on paper but I hav
 ### A plan describing how you will obtain the skills, qualifications and experience required for the position, building on those you have now. This need not be greatly detailed, (and will probably change significantly over time anyway), but try to be as specific as you can.
 
 There are a few different skills and certifications I am currently pursuing, as mentioned above I am currently studying for the CompTIA security+ exam, in addition I have been fairly active on [Hackerrank.com](hackerrank.com). There are a number of certifications I believe I could pass at the current moment, but they are quite expensive and I am terrible in exams, so my first step is to overcome my exam anxiety – I will need to, as much of IT is keeping up with current certifications.
+
+### Contents
+⋅⋅* [Career goals and education](https://oliveryoungrmit.github.io/Career/)
